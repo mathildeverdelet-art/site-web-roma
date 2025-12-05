@@ -1,0 +1,59 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 66px;
+    color: red;
+text-align: center;
+}
+body {
+    text-align: center;
+}
+
+img {width: 300px;}
+
+p {text-align: center;
+color: beige;
+font-size: larger;}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+text-decoration:underline
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+    color: darkolivegreen;
+}
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+    color: darkolivegreen;
+}
+h6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+    color: darkolivegreen;
+
+}
+body {background-color: antiquewhite;}
+
+h7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+
+}
+h8{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+       text-align: center;
+       color: red;
+
+}
+#bandeau {
+    background-color: red;
+}
